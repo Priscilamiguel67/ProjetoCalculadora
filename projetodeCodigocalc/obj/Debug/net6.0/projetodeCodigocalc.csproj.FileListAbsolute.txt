@@ -1,0 +1,14 @@
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\bin\Debug\net6.0\projetodeCodigocalc.exe
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\bin\Debug\net6.0\projetodeCodigocalc.deps.json
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\bin\Debug\net6.0\projetodeCodigocalc.runtimeconfig.json
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\bin\Debug\net6.0\projetodeCodigocalc.dll
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\bin\Debug\net6.0\projetodeCodigocalc.pdb
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\obj\Debug\net6.0\projetodeCodigocalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\obj\Debug\net6.0\projetodeCodigocalc.AssemblyInfoInputs.cache
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\obj\Debug\net6.0\projetodeCodigocalc.AssemblyInfo.cs
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\obj\Debug\net6.0\projetodeCodigocalc.csproj.CoreCompileInputs.cache
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\obj\Debug\net6.0\projetodeCodigocalc.dll
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\obj\Debug\net6.0\refint\projetodeCodigocalc.dll
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\obj\Debug\net6.0\projetodeCodigocalc.pdb
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\obj\Debug\net6.0\projetodeCodigocalc.genruntimeconfig.cache
+C:\Users\PRISCILA MIGUEL\Documents\Projetocalc\projetodeCodigocalc\projetodeCodigocalc\obj\Debug\net6.0\ref\projetodeCodigocalc.dll
